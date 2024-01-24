@@ -7,7 +7,7 @@ Software Developer
 Hey folks, Nice to meet you!!
 
 Little details about me - 
-Working with Amazon in Alexa org to create tools for people with disabilities to help them lead a better life using the power of Amazon Alexa. Over my time at Amazon, i have got the chance to work with Seller Services and Tax Teams. I have also worked with Credit Saison (https://creditsaison.in/) where I got to learn a lot about the fintech space. Apart from work, I am interested in reading books from my favourite author Rick Riordan. You can also find me playing table tennis which not sure how, i'm decent at..
+Working with Amazon in Alexa org to create tools for people with disabilities to help them lead a better life using the power of Amazon Alexa. Over my time at Amazon, I have got the chance to work with Seller Services and Tax Teams. I have also worked with Credit Saison (https://creditsaison.in/) where I got to learn a lot about the fintech space. Apart from work, I am interested in reading books from my favourite author Rick Riordan. You can also find me playing table tennis which not sure how, I'm decent at..
 
 * 🌍  I'm based in New Delhi
 * ✉️  You can contact me at [ssatsin2308@gmail.com](mailto:ssatsin2308@gmail.com)
